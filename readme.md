@@ -6,6 +6,10 @@ Do fork it but avoid making changes in master, rather put PRs.
 
 Very basic but functional Auth api based of api_token.
 
+## About Me
+	
+	visit www.danyal.dk
+
 ## Features 
  
  * Register new user
