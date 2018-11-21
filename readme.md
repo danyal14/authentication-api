@@ -20,8 +20,18 @@ Very basic but functional Auth api based of api_token.
  * Logout (api_token will be destroyed)
  
 ## Routes 
+API based on following routes.
+
+	POST /api/auth/register
+	POST /api/auth/login
+	GET /api/auth/logout
+	GET /api/auth/verify
+	GET /api/user/profile
+	GET /api/users
+	POST /api/user/change-password
+	GET /key/generate
 	
-There is a public link for list of available routes
+There is a public link available for documentation.
 
 	https://documenter.getpostman.com/view/66154/RzZFBbbC
 
