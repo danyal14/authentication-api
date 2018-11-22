@@ -2,6 +2,8 @@
 
 abstract class TestCase extends Laravel\Lumen\Testing\TestCase
 {
+    use \Laravel\Lumen\Testing\DatabaseMigrations;
+
     /**
      * Creates the application.
      *
