@@ -35,6 +35,9 @@ There is a public link available for documentation.
 
 	https://documenter.getpostman.com/view/66154/RzZFBbbC
 
+## Databases used for PHPUnit tests
+    api_test
+
 ## Steps of usage
 From project folder:
 
