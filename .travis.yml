@@ -4,7 +4,6 @@ php:
 - 7.2
 
 before_script:
-- cp .env.travis .env
 - mysql -e 'create database api_test;'
 - composer self-update
 - composer install --no-interaction
