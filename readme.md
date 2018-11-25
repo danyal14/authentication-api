@@ -1,5 +1,9 @@
 # Authentication API using Lumen
 
+[![Latest Stable Version](https://poser.pugx.org/laravel/lumen-framework/v/stable.svg)](https://packagist.org/packages/laravel/lumen-framework)
+[![Latest Unstable Version](https://poser.pugx.org/laravel/lumen-framework/v/unstable.svg)](https://packagist.org/packages/laravel/lumen-framework)
+
+
 This API developed in process of testing Lumen framework, you are welcoem to take advantage of this repo.
 
 Do fork it but avoid making changes in master, rather put PRs.
